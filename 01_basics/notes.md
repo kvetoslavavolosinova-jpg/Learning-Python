@@ -46,4 +46,3 @@ Python je univerzálny jazyk a používa sa v mnohých oblastiach:
 7. Desktopové aplikácie
    - Knižnice: Tkinter, PyQt
    - Použitie: klasické aplikácie pre počítač
-
