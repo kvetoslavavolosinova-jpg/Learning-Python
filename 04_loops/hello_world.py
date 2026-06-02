@@ -1,6 +1,2 @@
-for i in range(0, 5): print(i)
-open -a "Visual Studio Code" hello_world.py
-for i in range(5):
+for i in range(1, 11):
     print(i)
-    code .
-    
